@@ -1,19 +1,11 @@
 {
-    "images": [{
-            "img": "https://th.bing.com/th/id/OIP.4kXWv7tOB045zt0wbyBnEAHaLH?pid=ImgDet&rs=1",
-            "url": "https://www.google.com/"
-
-        },
+    "images": [
         {
-            "img": "https://th.bing.com/th/id/R.754bd3973b16662b069751066697037a?rik=D7%2bf8ptzFSdO7g&pid=ImgRaw&r=0",
-            "url": ""
-
-        },
-        {
-            "img": "https://149365704.v2.pressablecdn.com/wp-content/uploads/2013/09/portfolio-imgs-vangelis-doha-012.jpg",
-            "url": ""
+            "img": "https://cdn.discordapp.com/attachments/967963275994218556/1069352588409049198/discord_for_game_room.png",
+            "url": "https://discord.gg/WfBVPKCD2f"
 
         }
+        
 
     ]
 }
